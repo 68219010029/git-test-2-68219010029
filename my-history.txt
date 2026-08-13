@@ -1,0 +1,5 @@
+* 3218e01 Add edit by Phithasophon
+* 9335c5d Update version to 1.5 by team
+* bd6e39e Add index.txt for V.1
+* 2fd166a Update README with Git workflow instructions
+* f019cb6 Initial commit
